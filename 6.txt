@@ -1,0 +1,15 @@
+1
+You reach over and press the button to turn off the alarm
+clock. To your surprise, it doesn't turn off. The button must
+be broken. The alarm keeps ringing. Louder and louder.
+
+You figure you could go downstairs and get a tool to fix the
+alarm clock, or you could go back to sleep and try to sleep
+through the noise.
+
+1. Go downstairs and get some tools.
+2. Go back to sleep.
+
+@
+1 7
+2 5

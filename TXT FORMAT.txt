@@ -1,0 +1,48 @@
+The txt-based game you see is based on reading a series of txt files that are written 
+in a certain format. Understanding this format makes editing and adding to the 
+game is easy and relatively painless process.
+
+Format 1: Simple output text, provide option on where to go next.
+
+
+1 //(indicates which format it is)
+
+Text //(description and choice options that appear on game screen)
+
+@ //(some special character to indicate end of Text)
+(int) (int) //(choice input number, file/name number choice leads to)(these could both be replaced by strings)
+...
+(int) (int) //(repeat for all possible choices described in Text)//(if path file doesn't exist, game will end)
+
+
+
+Format 2: Pick up item, simple output text.
+
+
+2 //(indicates which format it is)
+
+0 0 0 ... 0 0 1 0 //(binary string, perform XOR operation with existing inventory to add or remove item)
+
+Text //(description and choice options that appear on game screen)
+
+@ //(some special character to indicate end of Text)
+(int) (int) //(choice input number, file/name number choice leads to)(these could both be replaced by strings)
+...
+(int) (int) //(repeat for all possible choices described in Text)
+
+
+Format 3: Branching paths based on inventory.
+
+
+3 //(indicates which format it is)
+
+0 0 0 ... 0 1 0 //(binary string, perform comparison operator to determine if this matches existing inventory)
+(int) //(file/name number choice leads to)
+...
+0 0 0 ... 0 1 0 //(binary string, perform comparison operator to determine if this matches existing inventory)
+(int) //(file/name number choice leads to)
+
+
+
+
+3

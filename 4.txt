@@ -1,0 +1,17 @@
+1
+You slowly open your eyes. You're in your bed, your blankets fallen
+on the floor. You notice that the alarm clock has stopped ringing,
+as the bell must have broken out of overuse. The clock says it is 
+now 2pm, and you have clearly overslept and have missed work.
+
+As you force yourself up, you realize today is actually Sunday, and
+there is no work today. "Thank goodness," you think, but know you
+have a predicament. Do you stay up and continue on with the day, or 
+go back to sleep and feel refreshed for tomorrow?
+
+1. You stay up and continue with the day.
+2. You go back to bed.
+
+@
+1 10
+2 5

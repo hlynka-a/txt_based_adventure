@@ -1,0 +1,17 @@
+1
+You slowly open your eyes. You're in your bed, your blankets tangled
+around you. A faint, familiar sound in the background grows louder and
+louder, and you realize that your alarm clock is still ringing, as you forgot
+to turn it off earlier.
+
+It's 8am, but you still feel tired, and feel like you need another five minutes
+of sleep to function for the rest of the day. 
+
+What do you do?
+
+1. You ignore the clock, and sleep for five more minutes.
+2. You get up and turn off the clock.
+
+@
+1 4
+2 3

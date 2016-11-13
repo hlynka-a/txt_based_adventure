@@ -1,0 +1,17 @@
+2
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+You feel the hammer in your hand. A delightful tool, great
+fun to use. 
+
+Now that the tool is in your inventory, you walk back up
+to your alarm clock, and get to work.
+
+(we could take care of the alarm clock in the page, but
+we want to show that we can go to another page and create
+a custom path based on what is currently in your inventory)
+
+Enter 1 to continue.
+
+@
+1 11

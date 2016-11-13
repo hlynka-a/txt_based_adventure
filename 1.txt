@@ -1,0 +1,17 @@
+1
+You slowly open your eyes. You're in your bed, your blankets neatly covering
+your still body. A faint sound in the background grows louder and louder, 
+and you realize that your alarm clock is ringing, signalling you to get up.
+
+It's 7am, but you just went to bed at 6am (after a long night of playing 
+Call of Duty with some ten-year olds online). Exhausted, you know you 
+have to get ready for work, but would do anything to stay in bed. 
+
+What do you do?
+
+1. You ignore the clock, and stay in bed.
+2. You get up and turn off the clock.
+
+@
+1 2
+2 3

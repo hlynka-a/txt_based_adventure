@@ -1,0 +1,8 @@
+1
+You go back to the alarm clock, but realize you forgot to bring any
+tools with you. The alarm keeps ringing, louder and louder.
+
+Enter 1 to go back and get a tool.
+
+@
+1 7

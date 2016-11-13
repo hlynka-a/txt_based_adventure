@@ -1,0 +1,17 @@
+1
+You go back to the alarm clock, wrench in hand. The alarm is still 
+ringing, louder and louder. 
+
+Like a professional, you delicately whack the alarm clock until it
+breaks in two. The alarm has stopped. Thank goodness.
+
+Now that the clock is taken care of, you have a choice to make. You
+can go downstairs and get something to eat (you remember there was
+an old pickle jar in the back of the fridge you don't remember buying)
+or you could go back to sleep.
+
+1. Go back to sleep.
+2. (not added yet)
+
+@
+1 5

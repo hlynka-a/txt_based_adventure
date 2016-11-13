@@ -1,0 +1,17 @@
+1
+You walk downstairs and get out your toolkit. You don't have
+too many tools, but you think you must have something you
+could use here.
+
+Reaching into the toolbox, what do you pick up?
+
+1. The Hammer.
+2. The Screwdriver.
+3. The Wrench.
+4. Nothing.
+
+@
+1 8
+2 9
+3 10
+4 11

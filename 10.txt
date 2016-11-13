@@ -1,0 +1,15 @@
+2
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+You feel the wrench in your hand. It's a rather boring
+tool, but useful when used properly. You continue upstairs
+with it to use it on the alarm clock.
+
+(we could take care of the alarm clock in the page, but
+we want to show that we can go to another page and create
+a custom path based on what is currently in your inventory)
+
+Enter 1 to continue.
+
+@
+1 11

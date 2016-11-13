@@ -1,0 +1,16 @@
+1
+You get out of bed, but notice that today is actually Sunday,
+and you don't have anything to do today. That's good news,
+you could use some extra sleep. But the alarm clock is still
+ringing, and at this point it's painful to listen to. 
+
+Still tired, you could either reach over and shut off the 
+alarm, or you could ignore it and go back to bed.
+
+1. Reach over and turn off the alarm.
+2. Decide you are too lazy to reach two feet to your left,
+   and go back to sleep.
+   
+@
+1 6
+2 5
